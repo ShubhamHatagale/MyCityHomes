@@ -1,0 +1,38 @@
+ Add product (form page)
+ Select prime category (dropdown)
+ Select sub category of prime category (dropdown)
+ Select Brand (dropdown)
+4 | Pag e
+
+o
+Select Vendor
+Product name
+1 Main Image
+5 Other images
+Short description
+Long description
+MOQ(minimum order quantity)
+Price Details (input price)
+o Base price
+o Market price
+o Our price
+Select Unit (dropdown)
+Commission Details
+o Fixed – input
+o Percentage - input
+Allowance
+Add Variant (multiple)
+o Variant name
+o Variant price
+ Market price
+ Base price
+ Our price
+o Save variant button
+Added Variant list
+o Remove option
+Save button
+
+setsalecheck(e.target.checked)
+    setCollecheck(e.target.checked)
+    setDeliveCheck(e.target.checked)
+compressware.in
